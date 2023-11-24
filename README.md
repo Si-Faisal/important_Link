@@ -3,7 +3,7 @@
 
 [cover letter](https://docs.google.com/presentation/d/1qsd-F5gyPtSpOm1SHLSE-GQfiJjWkkLK/edit#slide=id.p1)
 
-[color plete]([url](https://colorhunt.co/palettes/))
+[color plete](https://colorhunt.co/palettes/)
 
 [LinkedIN](https://docs.google.com/presentation/d/1UFZiA7700ojboj96ZbRqI0CmulpdIjWP/edit#slide=id.p1)
 
