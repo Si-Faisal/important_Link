@@ -17,7 +17,7 @@
 
 ##React TimeLine Components::
 
-+React Vertical timeline
-+React Crono
-+React suite
-+Fragppe Gatt
++ React Vertical timeline
++ React Crono
++ React suite
++ Fragppe Gatt
