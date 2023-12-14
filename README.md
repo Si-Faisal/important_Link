@@ -15,7 +15,7 @@
 
 [developer importants site and resources](https://docs.google.com/presentation/d/12olU-FQsPRWt7Y7XOvKtKiGoMbMGBSPVf7Vsvzsi4-k/edit#slide=id.gc6f980f91_0_0)
 
-##React TimeLine Components::
+## React TimeLine Components::
 
 + React Vertical timeline
 + React Crono
